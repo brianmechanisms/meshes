@@ -12,5 +12,7 @@
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/lowerArm.mtl"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/lowerArm.obj"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/softbox.png"
+ wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/torso.mtl"
+ wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/torso.obj"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/upperArmLink.mtl"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/upperArmLink.obj"
