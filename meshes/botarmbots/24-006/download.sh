@@ -1,5 +1,6 @@
 #!/bin/bash
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/3 point beige.hdr"
+ wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/download.sh"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/joint1Pin.mtl"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/joint1Pin.obj"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-006/joint1Plate.mtl"
