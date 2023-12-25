@@ -2,6 +2,7 @@
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-007/3 point beige.hdr"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-007/ULMW-24-007-concept.mtl"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-007/ULMW-24-007-concept.obj"
+ wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-007/download.sh"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-007/hood-24-007-concept.mtl"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-007/hood-24-007-concept.obj"
  wget "https://brianmechanisms.github.io/meshes/meshes/botarmbots/24-007/innerLegBottom-24-007-concept.mtl"
